@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+      <UserSecretsId>72aa7aed-ef10-448e-9398-d6e551b85e7e</UserSecretsId>
+  </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0"/>
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0"/>
+        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.3.0"/>
+        <PackageReference Include="MongoDB.Driver" Version="3.0.0"/>
+        <PackageReference Include="MongoDB.Bson" Version="3.0.0"/>
+    </ItemGroup>
+
+</Project>

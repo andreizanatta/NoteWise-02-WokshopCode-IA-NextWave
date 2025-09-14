@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|c:\\users\\dev_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\noteswise.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|solutionrelative:noteswise.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|c:\\users\\dev_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\noteswise.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|solutionrelative:noteswise.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|c:\\users\\dev_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\noteswise.api\\noteswise.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|solutionrelative:noteswise.api\\noteswise.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|c:\\users\\dev_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\noteswise.api\\endpoints\\aiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|solutionrelative:noteswise.api\\endpoints\\aiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|c:\\users\\dev_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\noteswise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E57A796-03AF-49CD-AE55-950DDA163A97}|NotesWise.API\\NotesWise.API.csproj|solutionrelative:noteswise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\appsettings.json",
+              "RelativeDocumentMoniker": "NotesWise.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\appsettings.json",
+              "RelativeToolTip": "NotesWise.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T17:04:52.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\Program.cs",
+              "RelativeDocumentMoniker": "NotesWise.API\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\Program.cs",
+              "RelativeToolTip": "NotesWise.API\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:01:52.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\Endpoints\\AIEndpoints.cs",
+              "RelativeDocumentMoniker": "NotesWise.API\\Endpoints\\AIEndpoints.cs",
+              "ToolTip": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\Endpoints\\AIEndpoints.cs",
+              "RelativeToolTip": "NotesWise.API\\Endpoints\\AIEndpoints.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:00:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesWise.API.http",
+              "DocumentMoniker": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\NotesWise.API.http",
+              "RelativeDocumentMoniker": "NotesWise.API\\NotesWise.API.http",
+              "ToolTip": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\NotesWise.API.http",
+              "RelativeToolTip": "NotesWise.API\\NotesWise.API.http",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-13T17:00:15.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\Services\\AIService.cs",
+              "RelativeDocumentMoniker": "NotesWise.API\\Services\\AIService.cs",
+              "ToolTip": "C:\\Users\\DEV_2\\source\\repos\\notes-wise-backend-pos-encontro-02-desafio\\NotesWise.API\\Services\\AIService.cs",
+              "RelativeToolTip": "NotesWise.API\\Services\\AIService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:51:54.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

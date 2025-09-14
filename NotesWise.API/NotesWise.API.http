@@ -1,0 +1,125 @@
+@NotesWiseAPIHostAddress = http://localhost:5181
+@supabaseToken = 
+@categoryId = 
+@noteId = 
+@flashcardId = 
+
+### Health Check
+GET {{NotesWiseAPIHostAddress}}/health
+
+### Get Categories
+GET {{NotesWiseAPIHostAddress}}/api/categories
+Authorization: Bearer {{supabaseToken}}
+
+### Create Category
+POST {{NotesWiseAPIHostAddress}}/api/categories
+Authorization: Bearer {{supabaseToken}}
+Content-Type: application/json
+
+{
+  "name": "Work Notes",
+  "color": "#3b82f6"
+}
+
+### Update Category
+PUT {{NotesWiseAPIHostAddress}}/api/categories/{{categoryId}}
+Authorization: Bearer {{supabaseToken}}
+Content-Type: application/json
+
+{
+  "name": "Updated Work Notes",
+  "color": "#ef4444"
+}
+
+### Delete Category
+DELETE {{NotesWiseAPIHostAddress}}/api/categories/{{categoryId}}
+Authorization: Bearer {{supabaseToken}}
+
+### Get Notes
+GET {{NotesWiseAPIHostAddress}}/api/notes
+Authorization: Bearer {{supabaseToken}}
+
+### Get Notes by Category
+GET {{NotesWiseAPIHostAddress}}/api/notes?categoryId={{categoryId}}
+Authorization: Bearer {{supabaseToken}}
+
+### Get Specific Note
+GET {{NotesWiseAPIHostAddress}}/api/notes/{{noteId}}
+Authorization: Bearer {{supabaseToken}}
+
+### Create Note
+POST {{NotesWiseAPIHostAddress}}/api/notes
+Authorization: Bearer {{supabaseToken}}
+Content-Type: application/json
+
+{
+  "title": "My First Note",
+  "content": "This is the content of my note with **markdown** support.",
+  "summary": "A brief summary of the note",
+  "categoryId": "{{categoryId}}"
+}
+
+### Update Note
+PUT {{NotesWiseAPIHostAddress}}/api/notes/{{noteId}}
+Authorization: Bearer {{supabaseToken}}
+Content-Type: application/json
+
+{
+  "title": "Updated Note Title",
+  "content": "Updated content with more information.",
+  "summary": "Updated summary"
+}
+
+### Delete Note
+DELETE {{NotesWiseAPIHostAddress}}/api/notes/{{noteId}}
+Authorization: Bearer {{supabaseToken}}
+
+### Get All Flashcards
+GET {{NotesWiseAPIHostAddress}}/api/flashcards
+Authorization: Bearer {{supabaseToken}}
+
+### Get Flashcards for Note
+GET {{NotesWiseAPIHostAddress}}/api/notes/{{noteId}}/flashcards
+Authorization: Bearer {{supabaseToken}}
+
+### Create Flashcards for Note
+POST {{NotesWiseAPIHostAddress}}/api/notes/{{noteId}}/flashcards
+Authorization: Bearer {{supabaseToken}}
+Content-Type: application/json
+
+{
+  "flashcards": [
+    {
+      "question": "What is the main topic of this note?",
+      "answer": "The main topic is about API development with .NET"
+    },
+    {
+      "question": "What database are we using?",
+      "answer": "We are using in-memory storage for this implementation"
+    }
+  ]
+}
+
+### Delete Flashcard
+DELETE {{NotesWiseAPIHostAddress}}/api/flashcards/{{flashcardId}}
+Authorization: Bearer {{supabaseToken}}
+
+### Generate Audio
+
+POST {{NotesWiseAPIHostAddress}}/api/ai/generate-audio
+Content-Type: application/json
+
+{
+  "text": "Andrei é moh gente boa.",
+  "voice": "burt"
+}
+
+### Generate Flashcards
+
+POST {{NotesWiseAPIHostAddress}}/api/ai/generate-flashcards
+Content-Type: application/json
+
+{
+  "content": "7 de Setembro: Independência do Brasil.O 7 de Setembro é uma das datas mais importantes da história do Brasil. Nesse dia, em 1822, o país rompeu oficialmente os laços coloniais com Portugal, dando início à sua trajetória como nação independente. O episódio ficou conhecido como o “Grito do Ipiranga”, quando Dom Pedro I, então príncipe regente, proclamou a independência às margens do riacho Ipiranga, em São Paulo."
+}
+
