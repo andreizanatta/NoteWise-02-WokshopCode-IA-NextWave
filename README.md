@@ -1,4 +1,6 @@
-# NotesWise API
+#NoteWise - Desafio 01 Wokshop Code & IA da NextWave
+
+#NotesWise API
 
 A .NET 9 Web API that provides data storage endpoints for the NotesWise React application, using Supabase for authentication and in-memory storage for data.
 
