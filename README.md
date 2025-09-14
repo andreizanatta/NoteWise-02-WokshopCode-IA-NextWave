@@ -1,4 +1,4 @@
-#NoteWise - Desafio 01 Wokshop Code & IA da NextWave
+#NoteWise - Desafio 02 Wokshop Code & IA da NextWave
 
 #NotesWise API
 
